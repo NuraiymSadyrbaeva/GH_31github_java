@@ -18,3 +18,17 @@ print_tree(tree_height)
 print("Frohe Weihnachten!")
 print("Genieße die festliche Zeit!")
 
+
+weihnachtslieder = [
+    "Stille Nacht",
+    "O Tannenbaum",
+    "Jingle Bells",
+    "O du fröhliche",
+    "Rudolph the Red-Nosed Reindeer",
+    "Feliz Navidad"
+]
+
+print("Hier sind einige beliebte Weihnachtslieder:")
+for lied in weihnachtslieder:
+    print(lied)
+
